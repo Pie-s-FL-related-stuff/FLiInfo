@@ -23,7 +23,7 @@ After killing a high level boss, if they drop an EXP Crystal, you can switch liv
 Pie
 ### Description
 While killing a high level boss with a buddy's Special Skill/a very long-animation attack, you might have time to undraw your weapon, switch lives and reap the rewards onto your new life.
-Similar to [EXP Crystal Life Switch](
+Similar to [EXP Crystal Life Switch](#exp-crystal-life-switch)
 
 ## HP Potion Life Switch
 ### Discovery
