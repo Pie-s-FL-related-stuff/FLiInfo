@@ -54,11 +54,3 @@ We are unsure whether this is purely visual or it can be used for more glitches.
 ### Media
 ![Discovery image](https://github.com/user-attachments/assets/ec37b902-999c-4e8c-b078-ad56cd7da40c)
 
-# Info
-## Strangeling Timed Cap?
-(Theory)
-### Discovery
-OathToOrder
-### Description
-Strangelings appear to have some sort of real world cap on the amount you can earn per day(/other unit of time).
-After 8 or so Strangelings in half an hour, you will get empty Strangeling chests.
