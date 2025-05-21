@@ -8,7 +8,8 @@ Vex
 ### Description
 Using the Hunter life Y attack, you can go faster than with you mount.
 ### Media
-[Discord message](https://discord.com/channels/133342059787452416/1222967195106279484/1373783449864769707)
+![Running](./assets/running_speed.mp4)
+![Hunter Spin](./assets/hunter_spin_speed.mp4)
 
 ## EXP Crystal Life Switch
 ### Discovery
@@ -52,5 +53,5 @@ Ogama75
 In multiplayer, if you die while eating an item in the Items menu, you get the overlay over the game, with a lot of visuals broken.
 We are unsure whether this is purely visual or it can be used for more glitches.
 ### Media
-![Discovery image](https://github.com/user-attachments/assets/ec37b902-999c-4e8c-b078-ad56cd7da40c)
+![Discovery image](./assets/menu_overload_theory.png)
 
