@@ -97,6 +97,22 @@ On some places with half-ledges, you might get stuck trying to get up.
 ### Media
 ![Stuck](./assets/stuck_half_ledge.mp4)
 
+## Magician Buff Stacking
+### Discovery
+Pie
+### Description
+Using both the Defensive Charged Y and Defensive Charged X of the Magician, you can get 2 Defense Up effects. This reduces damage more than just having 1. Other effects given by the Magician, like Heal over time don't stack.
+### Media
+![Stacking](./assets/magician_defensive_stacking.mp4)
+
+## Waterfall Walking
+### Discovery
+Pie
+### Description
+You can stand on the edges of some waterfalls.
+### Media
+![Near the East Greatgut Plains tower](./assets/waterfall_standing.mp4)
+
 # Info
 ## Life Quest Rank
 ### Discovery
@@ -111,3 +127,7 @@ Pie
 Mounting without any momentum locks you into an animation, whereas mounting while moving only slows you down a little.
 ### Media
 ![Mounting Animation](./assets/mounting_animation.mp4)
+
+## Dodge Attack Up
+### Description
+Even though the visual indicator for a dodge goes out after about 1 second, the Attack Up and Magic Attack Up effects have a 10 second duration.
